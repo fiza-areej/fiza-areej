@@ -12,12 +12,13 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fiza-areej&color=brightgreen)  
-[![GitHub Followers](https://img.shields.io/github/followers/fiza-areej?label=Follow&style=social)](https://github.com/fiza-areej)
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fiza-areej&color=brightgreen" alt="Profile Views" height="25" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/fiza-areej">
+    <img src="https://img.shields.io/github/followers/fiza-areej?label=Follow&style=social" alt="Follow Fiza" height="25" />
+  </a>
+</p>
 
 ---
 
