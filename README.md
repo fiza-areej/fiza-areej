@@ -42,7 +42,8 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 ---
 
 
-## Connect With Me <img src="https://i.imgur.com/2c9V9Fq.png" width="120">
+## Connect With Me <img src="https://i.imgur.com/Oc6v43N.png" width="120">
+
 
 
 <p align="center">
