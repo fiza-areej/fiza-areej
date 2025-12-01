@@ -55,4 +55,7 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" width="600px" alt="Jokes Card" />
+</p>
+
