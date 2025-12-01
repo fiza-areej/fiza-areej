@@ -27,19 +27,18 @@
 Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-world problems by leveraging data, automation, and intelligent systems. I have hands-on experience in deep learning, computer vision, and big data analytics, applying these skills to extract insights, build predictive models, and develop scalable solutions. Alongside my ML expertise, I am proficient in backend development, creating efficient and robust systems using modern tools and frameworks. I enjoy tackling complex challenges, optimizing workflows, and integrating AI-driven solutions that have practical impact across various domains. My goal is to continuously learn, innovate, and contribute to projects that merge advanced technology with real-world applications.
 
 ---
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***  
 <p align="left">
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 </p>
-<hr>
+
 
 
 ---
@@ -58,7 +57,7 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 ---
 
 
-## Connect With Me <img src="https://i.imgur.com/Oc6v43N.png" width="120">
+## 🤝 Connect With Me 
 
 
 
