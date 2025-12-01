@@ -42,9 +42,6 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 ---
 
 
-
----
-
 ## 🤝 **Connect With Me**
 
 <p align="center">
