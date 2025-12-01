@@ -1,8 +1,9 @@
 # 🌟 **Fiza Areej**
 
 <p align="center">
-  <img width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vibes">
+  <img width="220" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Panda">
 </p>
+
 
 
 <h1 align="center"> Hello Fellow &lt; Developers /&gt;!  
