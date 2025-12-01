@@ -31,9 +31,13 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 📊 **GitHub Stats**
 
+<p align="center">
+
 | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=tokyonight) |
 | --- | --- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=tokyonight) |
+
+</p>
 
 ---
 
