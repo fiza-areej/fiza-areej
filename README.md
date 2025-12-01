@@ -42,17 +42,15 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 ---
 
 ## 📊 **GitHub Stats**
-<div style="text-align: center;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=tokyonight" width="450px">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=tokyonight" width="450px">
-    </div>
-    <br>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=tokyonight" width="450px">
-        <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=tokyonight" width="450px">
-    </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadjassal&theme=algolia" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadjassal&show_icons=true&theme=chartreuse-dark" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadjassal&layout=compact&theme=chartreuse-dark"/>
+</p>
+
 
 
 ---
