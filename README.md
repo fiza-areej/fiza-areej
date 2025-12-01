@@ -1,7 +1,7 @@
 # 🌟 **Fiza Areej**
 
 <p align="center">
-  <img width="220" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="AI Coding">
+  <img width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vibes">
 </p>
 
 
