@@ -1,7 +1,7 @@
-# 🐼 **Fiza Areej Panda**
+# ✨ **Fiza Areej** ✨
 
 <p align="center">
-    <img width="200" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hello Developer">
+    <img width="220" src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" alt="Hello Developer">
 </p>
 
 <h1 align="center"> Hello Fellow &lt; Developers /&gt;!  
@@ -26,9 +26,15 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 📊 **GitHub Stats**
 
-| ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=tokyonight) |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=radical" width="45%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=fiza-areej&theme=react-dark" width="45%" />
+</p>
 
 ---
 
@@ -36,13 +42,13 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25px" alt="hi-hand"/> &nbsp;
-  <a href="https://www.linkedin.com/"><img width="25px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-  <a href="https://github.com/fiza-areej"><img width="25px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-  <a href="https://www.kaggle.com/fiza000"><img width="25px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a>
-  <a href="https://leetcode.com/u/Fiza_Areej/"><img width="25px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"></a>
-  <a href="https://medium.com/@fiza.areej202"><img width="25px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
+  <a href="https://www.linkedin.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"></a> &nbsp;
+  <a href="https://github.com/fiza-areej"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"></a> &nbsp;
+  <a href="https://www.kaggle.com/fiza000"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a> &nbsp;
+  <a href="https://leetcode.com/u/Fiza_Areej/"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"></a> &nbsp;
+  <a href="https://medium.com/@fiza.areej202"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"></a>
 </p>
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
