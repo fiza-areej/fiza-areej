@@ -55,12 +55,6 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 </div>
 
 
-
-
-
-
-
-
 ---
 
 
