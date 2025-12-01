@@ -42,8 +42,8 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 ---
 
 
-## Connect With Me <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Handshake_Flat_Icon_GIF_Animation.gif" width="30px" alt="Handshake" />
- 
+## Connect With Me ![Handshake](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlPjezGYLjkVZuY/giphy.gif" width="25px" alt="animated-handshake"/> &nbsp;
   <a href="https://www.linkedin.com/in/fiza-areej"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"></a> &nbsp;
