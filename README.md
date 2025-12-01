@@ -42,7 +42,8 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 ---
 
 
-## Connect With Me ![Handshake](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+## Connect With Me <img src="https://i.imgur.com/2c9V9Fq.png" width="120">
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlPjezGYLjkVZuY/giphy.gif" width="25px" alt="animated-handshake"/> &nbsp;
