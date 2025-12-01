@@ -42,9 +42,10 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadjassal&theme=algolia" alt="streak"/>
-</p>
+<div style="background-color: black; text-align: center; padding: 10px;">
+  <img width="220" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Typing Code">
+</div>
+
 
 
 
