@@ -46,10 +46,7 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadjassal&theme=algolia" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saadjassal&show_icons=true&theme=chartreuse-dark" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadjassal&layout=compact&theme=chartreuse-dark"/>
-</p>
+
 
 
 
