@@ -24,8 +24,9 @@
 
 ## 👋 **About Me**
 
-Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-world problems through data, automation, and intelligent systems.  
-My work spans across deep learning, computer vision, big data analytics, and backend development using modern tools.
+Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-world problems by leveraging data, automation, and intelligent systems. I have hands-on experience in deep learning, computer vision, and big data analytics, applying these skills to extract insights, build predictive models, and develop scalable solutions. Alongside my ML expertise, I am proficient in backend development, creating efficient and robust systems using modern tools and frameworks. I enjoy tackling complex challenges, optimizing workflows, and integrating AI-driven solutions that have practical impact across various domains. My goal is to continuously learn, innovate, and contribute to projects that merge advanced technology with real-world applications.
+
+---
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 
 <p align="left">
@@ -34,29 +35,25 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
 </p>
 <hr>
+
 
 ---
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
+<p align="center" style="width: 100%; color: white;">
 
 | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=tokyonight) |
 | --- | --- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=tokyonight) |
 
 </p>
+
 
 ---
 
