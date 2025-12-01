@@ -31,25 +31,14 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 📊 **GitHub Stats**
 
-<!-- GitHub Stats Section -->
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&count_private=true&theme=radical" width="450" alt="Fiza's GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=radical" width="350" alt="Top Languages" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fiza-areej&color=brightgreen" alt="Profile Views" height="25" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/fiza-areej">
+    <img src="https://img.shields.io/github/followers/fiza-areej?label=Follow&style=social" alt="Follow Fiza" height="25" />
+  </a>
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fiza-areej&theme=radical&no-bg=true&column=6" width="850" alt="Trophies" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=fiza-areej&theme=react-dark&hide_border=true" width="900" alt="Activity Graph"/>
-</p>
 
 
 ---
