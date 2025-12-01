@@ -45,28 +45,13 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 
 ## 📊 **GitHub Stats**
 
-<div align="center" style="width: 100%;">
+<p align="center" style="width: 100%; color: white;">
 
-<table style="width: 100%; table-layout: fixed;">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=dark&text_color=ffffff&icon_color=ffffff&bg_color=000000">
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=dark&text_color=ffffff&bg_color=000000">
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=dark&text_color=ffffff&bg_color=000000">
-</td>
-</tr>
-</table>
+| ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=tokyonight) |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=tokyonight) |
 
-</div>
+</p>
 
 
 
