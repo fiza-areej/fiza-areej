@@ -1,8 +1,9 @@
 # 🌟 **Fiza Areej**
 
 <p align="center">
-  <img width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vibes">
+  <img width="220" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Typing Code">
 </p>
+
 
 <h1 align="center"> Hello Fellow &lt; Developers /&gt;!  
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
