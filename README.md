@@ -39,8 +39,6 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 </p>
 
-
-
 ---
 
 ## 📊 **GitHub Stats**
@@ -53,8 +51,6 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 
 </p>
 
-
-
 ---
 
 
@@ -63,7 +59,6 @@ Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-wo
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlPjezGYLjkVZuY/giphy.gif" width="25px" alt="animated-handshake"/> &nbsp;
   <a href="https://www.linkedin.com/in/fiza-areej"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"></a> &nbsp;
   <a href="https://github.com/fiza-areej"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"></a> &nbsp;
   <a href="https://www.kaggle.com/fiza000"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a> &nbsp;
