@@ -54,9 +54,10 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 </p>
 
 ---
-### 🛸 Giggle Lab 😄
+
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" width="600px" alt="Jokes Card" />
+  <strong>🛸 Giggle Lab 😄</strong><br><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="80%" alt="Jokes Card"/>
 </p>
 
