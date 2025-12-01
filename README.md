@@ -26,6 +26,25 @@
 
 Hi! I’m **Fiza**, a Machine Learning Engineer passionate about solving real-world problems through data, automation, and intelligent systems.  
 My work spans across deep learning, computer vision, big data analytics, and backend development using modern tools.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+
+<p align="left">
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+</p>
+<hr>
 
 ---
 
