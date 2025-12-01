@@ -1,7 +1,7 @@
-# 🌟 **Fiza Areej**
+# 🐼 **Fiza Areej Panda**
 
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+    <img width="200" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hello Developer">
 </p>
 
 <h1 align="center"> Hello Fellow &lt; Developers /&gt;!  
@@ -34,14 +34,15 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 🤝 **Connect With Me**
 
-<a href="https://www.linkedin.com/"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-<a href="https://github.com/fiza-areej"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-<a href="https://www.kaggle.com/fiza000"><img width="35px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a>
-<a href="https://leetcode.com/u/Fiza_Areej/"><img width="35px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"></a>
-<a href="https://medium.com/@fiza.areej202"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25px" alt="hi-hand"/> &nbsp;
+  <a href="https://www.linkedin.com/"><img width="25px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
+  <a href="https://github.com/fiza-areej"><img width="25px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+  <a href="https://www.kaggle.com/fiza000"><img width="25px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a>
+  <a href="https://leetcode.com/u/Fiza_Areej/"><img width="25px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"></a>
+  <a href="https://medium.com/@fiza.areej202"><img width="25px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
+</p>
 
 ---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
