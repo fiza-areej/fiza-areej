@@ -1,7 +1,7 @@
-# ✨ **Fiza Areej** ✨
+# 🌟 **Fiza Areej**
 
 <p align="center">
-    <img width="220" src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" alt="Hello Developer">
+  <img width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vibes">
 </p>
 
 <h1 align="center"> Hello Fellow &lt; Developers /&gt;!  
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=fiza-areej.fiza-areej)  
+![Profile Views](https://komarev.com/ghpvc/?username=fiza-areej&color=brightgreen)  
 [![GitHub Followers](https://img.shields.io/github/followers/fiza-areej?label=Follow&style=social)](https://github.com/fiza-areej)
 
 </div>
@@ -27,12 +27,12 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=radical&count_private=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=radical&langs_count=10" width="45%" />
   <img src="https://activity-graph.herokuapp.com/graph?username=fiza-areej&theme=react-dark" width="45%" />
 </p>
 
@@ -41,8 +41,8 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 ## 🤝 **Connect With Me**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25px" alt="hi-hand"/> &nbsp;
-  <a href="https://www.linkedin.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"></a> &nbsp;
+  <img src="https://media.giphy.com/media/l0HlPjezGYLjkVZuY/giphy.gif" width="25px" alt="animated-handshake"/> &nbsp;
+  <a href="https://www.linkedin.com/in/fiza-areej"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"></a> &nbsp;
   <a href="https://github.com/fiza-areej"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"></a> &nbsp;
   <a href="https://www.kaggle.com/fiza000"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a> &nbsp;
   <a href="https://leetcode.com/u/Fiza_Areej/"><img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"></a> &nbsp;
