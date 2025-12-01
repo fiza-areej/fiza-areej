@@ -31,13 +31,14 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 📊 **GitHub Stats**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fiza-areej&color=brightgreen" alt="Profile Views" height="25" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/fiza-areej">
-    <img src="https://img.shields.io/github/followers/fiza-areej?label=Follow&style=social" alt="Follow Fiza" height="25" />
-  </a>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=dark" width="450" alt="Fiza's GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=dark" width="350" alt="Top Languages" />
 </p>
+
 
 
 
