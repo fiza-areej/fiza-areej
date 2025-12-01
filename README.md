@@ -31,18 +31,26 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 📊 **GitHub Stats**
 
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=radical&count_private=true&hide_title=false" width="450" alt="Fiza's GitHub Stats" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&count_private=true&theme=radical" width="450" alt="Fiza's GitHub Stats" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=radical" width="350" alt="Top Languages" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fiza-areej&theme=radical&no-bg=true&margin-w=15&column=6" width="800" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fiza-areej&theme=radical&no-bg=true&column=6" width="850" alt="Trophies" />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=fiza-areej&theme=react-dark&hide_border=true" width="900" alt="Activity Graph"/>
 </p>
+
 
 ---
 
