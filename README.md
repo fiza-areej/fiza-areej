@@ -1,8 +1,9 @@
 # 🌟 **Fiza Areej**
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/fp6lW1wZKp2n6/giphy.gif" alt="Coding Panda in Action">
+  <img width="250" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation">
 </p>
+
 
 
 
