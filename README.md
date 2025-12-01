@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=fizaareej.fizaareej)  
-[![GitHub Followers](https://img.shields.io/github/followers/fizaareej?label=Follow&style=social)](https://github.com/fizaareej)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=fiza-areej.fiza-areej)  
+[![GitHub Followers](https://img.shields.io/github/followers/fiza-areej?label=Follow&style=social)](https://github.com/fiza-areej)
 
 </div>
 
@@ -26,16 +26,19 @@ My work spans across deep learning, computer vision, big data analytics, and bac
 
 ## 📊 **GitHub Stats**
 
-| ![](https://github-readme-stats.vercel.app/api?username=fizaareej&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fizaareej&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fiza-areej&theme=tokyonight) |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaareej&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=fizaareej&show_icons=true&hide_rank=true&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-areej&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=fiza-areej&show_icons=true&hide_rank=true&theme=tokyonight) |
 
 ---
 
 ## 🤝 **Connect With Me**
 
 <a href="https://www.linkedin.com/"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-<a href="https://github.com/fizaareej"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<a href="https://github.com/fiza-areej"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<a href="https://www.kaggle.com/fiza000"><img width="35px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"></a>
+<a href="https://leetcode.com/u/Fiza_Areej/"><img width="35px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"></a>
+<a href="https://medium.com/@fiza.areej202"><img width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
 
 ---
 
